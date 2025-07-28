@@ -1,4 +1,4 @@
-# 🌊 SURF — Simulated Usability and Rating Framework
+# 🌊 SURF — Simulated UI Rating Framework
 
 **SURF** is a Rust library that helps Yew developers build better web UIs by combining:
 
